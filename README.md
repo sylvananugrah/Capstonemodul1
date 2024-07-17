@@ -42,14 +42,3 @@ Terdapat 6 Menu didalam aplikasi:
   1. Menampilkan Seluruh Data pasien yang telah meninggal.
   2. Menghitung jumlah penyakit yang menyebabkan kematian terbesar.
   3. kembali ke menu awal
-
-
-
-
-- Menu 6 (Menu Kunjungan Pasien):
-  Seperti yang sudah disinggung tentang kunjungan pasien. Pada menu ini, user bisa melihat riwayat kunjungan pasien maupun menambahkan data kunjungan pasien.
-
-- Menu 7 (Menu Dokter) :
-  Terkait dengan kunjungan pasien, user bisa menambahkan dokter dan menghapus nama dokter dari list yang sudah ada
-
-  **Note : Semua input sudah diproteksi apabila harus diisi integer maka akan ada notifikasi ketika tidak diisi dengan integer
